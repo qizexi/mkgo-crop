@@ -1,4 +1,5 @@
-web移动端图像裁剪程序
+移动web图像裁剪插件
+
 主程序名：mkgo-crop.js<br/>
 主程序说明：马可波罗旅行html5移动端图片裁剪程序<br/>
 作者：qizexi<br/>
